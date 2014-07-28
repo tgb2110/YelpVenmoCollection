@@ -20,6 +20,7 @@ PODS:
   - AFNetworking/UIKit (2.3.1):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
+  - RBStoryboardLink (0.1.0)
   - SSKeychain (1.2.2)
   - VENCore (1.0.0):
     - AFNetworking
@@ -29,10 +30,12 @@ PODS:
 
 DEPENDENCIES:
   - AFNetworking
+  - RBStoryboardLink (~> 0.1)
   - Venmo-iOS-SDK (~> 1.0)
 
 SPEC CHECKSUMS:
   AFNetworking: 6d7b76aa5d04c8c37daad3eef4b7e3f2a7620da3
+  RBStoryboardLink: 2abe4697a7dd6137482590b044f6e4f1c2b05837
   SSKeychain: cc48bd3ad24fcd9125adb9e0d23dd50b8bbd08b9
   VENCore: 68c2a95f558823ad5895e740a2f8206f856efef8
   Venmo-iOS-SDK: 844fed2aad535b31b6011a5badacd677fd90e194

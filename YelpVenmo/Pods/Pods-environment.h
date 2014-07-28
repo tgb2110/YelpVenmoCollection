@@ -48,6 +48,12 @@
 #define COCOAPODS_VERSION_MINOR_AFNetworking_UIKit 3
 #define COCOAPODS_VERSION_PATCH_AFNetworking_UIKit 1
 
+// RBStoryboardLink
+#define COCOAPODS_POD_AVAILABLE_RBStoryboardLink
+#define COCOAPODS_VERSION_MAJOR_RBStoryboardLink 0
+#define COCOAPODS_VERSION_MINOR_RBStoryboardLink 1
+#define COCOAPODS_VERSION_PATCH_RBStoryboardLink 0
+
 // SSKeychain
 #define COCOAPODS_POD_AVAILABLE_SSKeychain
 #define COCOAPODS_VERSION_MAJOR_SSKeychain 1
